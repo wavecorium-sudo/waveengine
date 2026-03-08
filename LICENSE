@@ -9,7 +9,7 @@ under our company. The following conditions must be met:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-#Section on Game Engines
+# Section on Game Engines
 You are prohibited to recreate a game engine in the time
 of using this crate. Only creating new game engines without
 copying the old one is allowed.
