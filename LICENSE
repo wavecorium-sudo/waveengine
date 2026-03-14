@@ -12,7 +12,7 @@ copies or substantial portions of the Software.
 # Section on Game Engines
 You are prohibited to recreate a game engine in the time
 of using this crate. Only creating new game engines without
-copying the old one is allowed.
+having similarity to the old one is allowed.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
